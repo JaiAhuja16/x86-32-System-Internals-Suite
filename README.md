@@ -1,4 +1,15 @@
 # x86-32-System-Internals-Suite
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f179a,50:1e299b,100:334170&text=OS%20Internals%20Suite&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=x86-32%20Loaders%20•%20Shells%20•%20Schedulers%20•%20Threads&descAlignY=68"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/x86--32-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-Language-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Platform-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-Internals-red?style=for-the-badge"/>
+
 A collection of low level system programs exploring x86-32 OS internals, including program loading, process execution, scheduling, and multithreading.
 
 This repository brings together multiple system level projects developed to understand how modern operating systems interact with hardware beyond standard library abstractions.
@@ -74,5 +85,9 @@ A basic multithreading implementation that:
 
 **Concepts:**  
 Threads, concurrency, synchronization, race conditions
+
+## License
+
+MIT License
 
 ---
